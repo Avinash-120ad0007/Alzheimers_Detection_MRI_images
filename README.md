@@ -6,7 +6,7 @@ DATASET:
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 
 CNN MODEL:
-Customized Model which is a combination pretrained Model(V3) and some added layers at the end
+Customized Model which is a combination pretrained Model( Inception V3) and some added layers at the end
 
 ACCURACY :
 The Accuracy of the above Model is almost upto 82%
